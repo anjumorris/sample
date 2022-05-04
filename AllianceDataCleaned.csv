@@ -1,0 +1,17 @@
+﻿Respondent,Response,Year,Value,Value1
+Germany,Good,2017,42,0.43
+Germany,Good,2018,24,0.255
+Germany,Good,2019,34,0.35
+Germany,Good,2020,18,0.195
+United States,Good,2017,68,0.73
+United States,Good,2018,70,0.725
+United States,Good,2019,75,0.79
+United States,Good,2020,74,0.765
+Germany,Bad,2017,56,0.57
+Germany,Bad,2018,73,0.745
+Germany,Bad,2019,64,0.65
+Germany,Bad,2020,79,0.805
+United States,Bad,2017,22,0.27
+United States,Bad,2018,25,0.275
+United States,Bad,2019,17,0.21
+United States,Bad,2020,21,0.235
